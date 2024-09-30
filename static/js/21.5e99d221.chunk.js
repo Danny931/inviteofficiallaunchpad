@@ -1,0 +1,2 @@
+(this["webpackJsonplaunch-pad"]=this["webpackJsonplaunch-pad"]||[]).push([[21],{368:function(c,n,s){"use strict";s.r(n);s(0);var t=s(1);n.default=function(){return Object(t.jsx)("div",{children:Object(t.jsx)("h3",{children:"Fair launch lists"})})}}}]);
+//# sourceMappingURL=21.5e99d221.chunk.js.map
